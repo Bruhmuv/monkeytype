@@ -71,6 +71,7 @@ export const LayoutNameSchema = z.enum([
     "colemaQ_F",
     "engram",
     "engrammer",
+    "enthium_v10",
     "semimak",
     "semimak_jq",
     "semimak_jqc",
